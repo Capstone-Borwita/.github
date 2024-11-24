@@ -1,4 +1,5 @@
-## Hi there 👋
+# Bangkit Company-based Capstone Project | PT Borwita Citra Prima
+## [C242-AK01] Automating KTP Data Extraction for Enhanced Accuracy in Customer Master Data Management
 
 <!--
 
