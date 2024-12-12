@@ -21,10 +21,13 @@ We are developing a model to automate data extraction, such as Name, NIK, and Ad
 | A134B4KX4374  | Ulya Faza Razak| MD | Politeknik Negeri Sriwijaya | [LinkedIn](https://www.linkedin.com/in/ulyafazarazak) |
 
 ## Application Overview
-![Login Page](https://drive.google.com/uc?id=1ZW6gQkKe2nFb1D9wW92kUGIX03hmYG9S)
-![Home Page](https://drive.google.com/uc?id=1ZYQGM9py2XpMk1YICvFUD6)
-![Profile Page](https://drive.google.com/uc?id=1_0-iSvZVthbtVqDW4GvAmtoZuVxg-MRJ)
-![Main Feature](https://drive.google.com/uc?id=1_2hgMDjjvZn9mqXu2QFSwnWCj8CCfk66)
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1ZW6gQkKe2nFb1D9wW92kUGIX03hmYG9S" alt="Login Page" width="200"/>
+  <img src="https://drive.google.com/uc?id=1ZYQGM9py2XpMk1YICvFUD6" alt="Home Page" width="200"/>
+  <img src="https://drive.google.com/uc?id=1_0-iSvZVthbtVqDW4GvAmtoZuVxg-MRJ" alt="Profile Page" width="200"/>
+  <img src="https://drive.google.com/uc?id=1_2hgMDjjvZn9mqXu2QFSwnWCj8CCfk66" alt="Main Feature" width="200"/>
+</p>
+
 
 
 
