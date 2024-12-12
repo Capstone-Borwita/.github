@@ -22,9 +22,9 @@ We are developing a model to automate data extraction, such as Name, NIK, and Ad
 
 ## Application Overview
 ![Login Page](https://drive.google.com/uc?id=1ZW6gQkKe2nFb1D9wW92kUGIX03hmYG9S)
-![Home Page](https://drive.google.com/file/d/1ZYQGM9py2XpMk1YICvFUD6-g-bnS77jw/view)
-![Profile Page](https://drive.google.com/file/d/1_0-iSvZVthbtVqDW4GvAmtoZuVxg-MRJ/view)
-![Main Feature](https://drive.google.com/file/d/1_2hgMDjjvZn9mqXu2QFSwnWCj8CCfk66/view)
+![Home Page](https://drive.google.com/uc?id=1ZYQGM9py2XpMk1YICvFUD6)
+![Profile Page](https://drive.google.com/uc?id=1_0-iSvZVthbtVqDW4GvAmtoZuVxg-MRJ)
+![Main Feature](https://drive.google.com/uc?id=1_2hgMDjjvZn9mqXu2QFSwnWCj8CCfk66)
 
 
 
