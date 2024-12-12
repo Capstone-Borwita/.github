@@ -28,6 +28,15 @@ We are developing a model to automate data extraction, such as Name, NIK, and Ad
   <img src="https://drive.google.com/uc?id=1_2hgMDjjvZn9mqXu2QFSwnWCj8CCfk66" alt="Main Feature" width="200"/>
 </p>
 
+These are some screenshot of our application. Our application include features, such as login and register; add store (our main features here); Profile and edit profile; and News as additional feature. You can also find the demo application here. And there is also our prototype design that has been developed using figma, you can find here.
+
+## Tech Stack
+**Machine Learning**
+**Cloud Computing**
+**Mobile Development**
+
+
+
 
 
 
