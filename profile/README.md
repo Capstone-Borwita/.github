@@ -31,13 +31,19 @@ We are developing a model to automate data extraction, such as Name, NIK, and Ad
 These are some screenshot of our application. Our application include features, such as login and register; add store (our main features here); Profile and edit profile; and News as additional feature. You can also find the demo application here. And there is also our prototype design that has been developed using figma, you can find here.
 
 ## Tech Stack
-**Machine Learning**
+**Machine Learning** : Visual Studio Code, Python 3.7+, Tensorflow, Numpy, Pandas, OpenCV, Matplotlib, Keras, YOLO.
+
+For more detaail, visit [this repository](https://github.com/Capstone-Borwita/machine-learning-path) 
 
 
-**Cloud Computing** 
+**Cloud Computing** : Python 3.7+, Bruno, 
+
+For more detaail, visit [this repository](https://github.com/Capstone-Borwita/cloud-computing-path)
 
 
-**Mobile Development** 
+**Mobile Development** : Android studio, Figma, Kotlin
+
+For more detaail, visit [this repository](https://github.com/Capstone-Borwita/mobile-development-path)
 
 
 
