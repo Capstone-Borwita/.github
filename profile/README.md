@@ -33,17 +33,17 @@ These are some screenshot of our application. Our application include features, 
 ## Tech Stack
 **Machine Learning** : Visual Studio Code, Python 3.7+, Tensorflow, Numpy, Pandas, OpenCV, Matplotlib, Keras, YOLO.
 
-For more detaail, visit [this repository](https://github.com/Capstone-Borwita/machine-learning-path) 
+For more detail, visit [this repository](https://github.com/Capstone-Borwita/machine-learning-path) 
 
 
 **Cloud Computing** : Python 3.7+, Bruno, 
 
-For more detaail, visit [this repository](https://github.com/Capstone-Borwita/cloud-computing-path)
+For more detail, visit [this repository](https://github.com/Capstone-Borwita/cloud-computing-path)
 
 
 **Mobile Development** : Android studio, Figma, Kotlin
 
-For more detaail, visit [this repository](https://github.com/Capstone-Borwita/mobile-development-path)
+For more detail, visit [this repository](https://github.com/Capstone-Borwita/mobile-development-path)
 
 
 
