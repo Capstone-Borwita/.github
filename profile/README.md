@@ -20,6 +20,12 @@ We are developing a model to automate data extraction, such as Name, NIK, and Ad
 | A464B4KY2677  | Muhammad Abdullah Sa’id  | MD | Universitas PGRI Ronggolawe Tuban | [LinkedIn](https://id.linkedin.com/in/muhammad-abdullah-said-4801551b3) |
 | A134B4KX4374  | Ulya Faza Razak| MD | Politeknik Negeri Sriwijaya | [LinkedIn](https://www.linkedin.com/in/ulyafazarazak) |
 
+## Application Overview
+![Login Page](https://drive.google.com/file/d/1ZW6gQkKe2nFb1D9wW92kUGIX03hmYG9S/view)
+![Home Page](https://drive.google.com/file/d/1ZYQGM9py2XpMk1YICvFUD6-g-bnS77jw/view)
+![Profile Page](https://drive.google.com/file/d/1_0-iSvZVthbtVqDW4GvAmtoZuVxg-MRJ/view)
+![Main Feature](https://drive.google.com/file/d/1_2hgMDjjvZn9mqXu2QFSwnWCj8CCfk66/view)
+
 
 
 
