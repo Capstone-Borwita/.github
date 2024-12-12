@@ -1,3 +1,5 @@
+![Screenshot](https://raw.githubusercontent.com/Capstone-Borwita/mobile-development-path/refs/heads/master/assets/cover.png)
+
 # Bangkit Company-based Capstone Project | PT Borwita Citra Prima
 
 ### Hello there 🙌
