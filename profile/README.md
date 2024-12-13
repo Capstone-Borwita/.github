@@ -42,12 +42,12 @@ And there is also our prototype design that has been developed using figma, you 
 For more detail, visit [this repository](https://github.com/Capstone-Borwita/machine-learning-path) 
 
 
-**Cloud Computing** : Python 3.7+, Bruno, 
+**Cloud Computing** : Visual Studio Code, Python 3.12+, FastAPI, SQL Model, Pydantic, Bruno, Docker.
 
 For more detail, visit [this repository](https://github.com/Capstone-Borwita/cloud-computing-path)
 
 
-**Mobile Development** : Android studio, Figma, Kotlin
+**Mobile Development** : Android studio, Figma, Kotlin.
 
 For more detail, visit [this repository](https://github.com/Capstone-Borwita/mobile-development-path)
 
